@@ -11,5 +11,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/MicrosoftWord12/discord-bot-generator.git"
+	},
+	"bin": {
+		"djs-bot-gen": "./lib/index.js"
 	}
 }
