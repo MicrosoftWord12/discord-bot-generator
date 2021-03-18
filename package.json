@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot-generator",
+  "version": "0.0.1",
+  "description": "Generates Discord Bot",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "microsoft-word",
+  "license": "ISC"
+}
