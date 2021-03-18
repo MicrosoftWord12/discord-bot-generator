@@ -1,6 +1,6 @@
 {
 	"name": "djs-bot-generation-package",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Generates Discord Bot",
 	"main": "lib/index.js",
 	"scripts": {
