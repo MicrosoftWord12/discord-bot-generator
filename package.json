@@ -23,7 +23,12 @@
 		"lib": "lib",
 		"test": "test"
 	},
-	"dependencies": {},
-	"devDependencies": {},
-	"keywords": []
+	"keywords": [
+		"discord",
+		"djs",
+		"discord.js",
+		"botGenerator",
+		"bot",
+		"generator"
+	]
 }
