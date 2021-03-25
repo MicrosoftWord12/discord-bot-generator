@@ -2,6 +2,20 @@
 
 ### How to activate
 
-<footer> So basically I don't know how to do something like 'generate bot' in the command line</footer>
-<br><br>
-To activate you need to install the package and use a 'question' function
+run:
+`npm i -g djs-bot-generation-package` THIS HAS TO BE GLOBAL
+
+then:
+`djs-bot-gen`
+
+##### Description:
+
+- The idea for this project is for people to quickly make a discord bot outline
+
+##### Version Key
+
+Version 1.0.0 = Finalised and working version
+Version 0.1.0 = Semi Working, testing for bug fixes
+Version 0.0.1 = Not currently working
+
+These numbers will go up
