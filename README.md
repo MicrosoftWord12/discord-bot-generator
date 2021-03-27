@@ -14,9 +14,9 @@ then:
 
 ##### Version Key
 
-Version 1.0.0 = Finalised and working version
-Version 0.1.0 = Semi Working, testing for bug fixes
-Version 0.0.1 = Not currently working
+Version 1.0.0 = Finalised and working version <end>
+Version 0.1.0 = Semi Working, testing for bug fixes <end>
+Version 0.0.1 = Not currently working <end>
 
 These numbers will go up
 
