@@ -30,5 +30,6 @@
 		"botGenerator",
 		"bot",
 		"generator"
-	]
+	],
+	"dependencies": {}
 }
