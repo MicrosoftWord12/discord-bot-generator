@@ -106,3 +106,4 @@ dist
 # my stuff
 /src
 /test
+/lib/templates/client/bot.js
