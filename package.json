@@ -4,6 +4,7 @@
 	"description": "Generates Discord Bot",
 	"main": "./lib/index.js",
 	"scripts": {
+		"dev": "cd test",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "microsoft-word",

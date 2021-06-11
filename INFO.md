@@ -1,9 +1,9 @@
 ### Todo
 
-- [ ] Make a new 'testing' branch?
-- [ ] Update Discord Shortcuts project, NPM and GITHUB
+- [ ] Make a new 'testing' branch
 - [ ] Add colours to the command line
 - [ ] May require another js package
+- [ ]
 
 ##### Checking
 
@@ -14,6 +14,5 @@
 
 ### Currently working on
 
-- [ ] Functionality
 - [ ] Making sure the files load properly
-- [ ] reading and writing to files work properly
+- [x] reading and writing to files work properly
