@@ -49,3 +49,10 @@ These numbers will go up
 
 - I am making a Discord Shortcut project checkout
   [Shortcut Github](https://github.com/MicrosoftWord12/Discord-JS-Shortcuts-JS)
+
+#### Functionality:
+
+Compatible:
+
+- Javascript
+- Working on Compat with Typescript

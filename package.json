@@ -32,5 +32,11 @@
 		"bot",
 		"generator"
 	],
-	"dependencies": {}
+	"dependencies": {
+		"@types/node": "^15.12.4",
+		"typescript": "^4.3.4"
+	},
+	"devDependencies": {
+		"discord.js": "^12.5.3"
+	}
 }
