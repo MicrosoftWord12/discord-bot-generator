@@ -1,10 +1,8 @@
-# **DO NOT USE** I HAVE FOUND A FLAW IN THE FILE OF THE APP
-
-### WHEN EXECUTING THE COMMANDS YOU HAVE MADE USING THE SET STRUCTURE IT WILL NOT REGISTER
-
 #### Discord Bot Project Generator
 
 ### How to activate
+
+**I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY**
 
 run:
 `npm i -g djs-bot-generation-package` **THIS HAS TO BE GLOBAL OTHERWISE IT DOES NOT WORK**
@@ -44,6 +42,9 @@ These numbers will go up
 
 - You will need a regular NPM project
   `npm init -y` (or vice versa)
+
+- Nodemon is not required but recommended `nodemon`
+- If you go with ENV you will need `.dotenv`
 
 ##### Helpful stuff
 
