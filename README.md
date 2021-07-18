@@ -32,7 +32,7 @@ These numbers will go up
 
 ##### Known Bugs
 
-- Honestly I do not know but from what I can tell I don't have many
+- Honestly I do not know but from what I can tell I don't have many. If I have any that is
 
 ##### Requirements
 
