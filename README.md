@@ -44,8 +44,8 @@ These numbers will go up
 - You will need a regular NPM project
   `npm init -y` (or vice versa)
 
-- Nodemon is not required but recommended `nodemon`
-- If you go with ENV you will need `.dotenv`
+<!-- - Nodemon is not required but recommended `nodemon`
+- If you go with ENV you will need `.dotenv` -->
 
 ##### Helpful stuff
 

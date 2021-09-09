@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "keywords": [
     "discord",
