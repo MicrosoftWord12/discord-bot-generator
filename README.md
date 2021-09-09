@@ -2,7 +2,7 @@
 
 ### How to activate
 
-**I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY**
+<!-- **I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY** -->
 
 run:
 `npm i -g djs-bot-generation-package` **THIS HAS TO BE GLOBAL OTHERWISE IT DOES NOT WORK**
@@ -13,6 +13,7 @@ then:
 ##### Description:
 
 - The idea for this project is for people to quickly make a discord bot outline
+- This Generates the command handlers, Event, Command and the command executor
 
 ##### Version Key
 
