@@ -2,7 +2,7 @@
 
 ### How to activate
 
-<!-- **I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY** -->
+**I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY**
 
 run:
 `npm i -g djs-bot-generation-package` **THIS HAS TO BE GLOBAL OTHERWISE IT DOES NOT WORK**
@@ -13,7 +13,6 @@ then:
 ##### Description:
 
 - The idea for this project is for people to quickly make a discord bot outline
-- This Generates the command handlers, Event, Command and the command executor
 
 ##### Version Key
 
@@ -33,7 +32,9 @@ These numbers will go up
 
 ##### Known Bugs
 
-- Honestly I do not know but from what I can tell I don't have many. If I have any that is
+- Honestly I do not know but from what I can tell I don't have many
+- Bug with the command execution
+  - I hard coded '-' in [FILE](lib/templates/executor/message.js) which was the command prefix (LINE 12)
 
 ##### Requirements
 
@@ -44,8 +45,8 @@ These numbers will go up
 - You will need a regular NPM project
   `npm init -y` (or vice versa)
 
-<!-- - Nodemon is not required but recommended `nodemon`
-- If you go with ENV you will need `.dotenv` -->
+- Nodemon is not required but recommended `nodemon`
+- If you go with ENV you will need `.dotenv`
 
 ##### Helpful stuff
 
@@ -57,4 +58,5 @@ These numbers will go up
 Compatible:
 
 - Javascript
-- Working on Compat with Typescript
+  - Probably going to keep it just Javascript
+  - If you want other compatibility support similiar languages and it to the issues tab
