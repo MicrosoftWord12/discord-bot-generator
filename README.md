@@ -50,6 +50,7 @@ These numbers will go up
 
 ##### Helpful stuff
 
+- This project is using `discord.js@12.5.3` because it seems to be the more supported one, you are however more than welcome to change this
 - I am making a Discord Shortcut project checkout
   [Shortcut Github](https://github.com/MicrosoftWord12/Discord-JS-Shortcuts-JS)
 
