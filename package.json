@@ -14,7 +14,7 @@
     "registry":"https://npm.pkg.github.com"
   },
   "keywords": [],
-  "author": "",
+  "author": "MicrosoftWord12",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.9.6",
