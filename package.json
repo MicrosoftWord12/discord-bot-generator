@@ -7,10 +7,6 @@
     "once": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MicrosoftWord12/discord-bot-generator.git"
-  },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/MicrosoftWord12"
   },
