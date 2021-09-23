@@ -1,14 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "discord-bot-generator",
   "version": "2.0.0",
   "description": "<!-- # I AM REMAKING THIS BUT IN TYPESCRIPT -->",
-=======
-  // "name": "discord-bot-generator",
-  "name": "@MicrosoftWord12/discord-bot-generator",
-  "version": "1.0.0",
-  "description": "",
->>>>>>> d9a0d00d7d6a18f71821064fe7fa1963f0f304e7
   "main": "index.ts",
   "scripts": {
     "once": "ts-node index.ts",
