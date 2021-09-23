@@ -1,3 +1,9 @@
+# I AM REMAKING THIS BUT IN TYPESCRIPT
+
+
+<!-- 
+
+
 #### Discord Bot Project Generator
 
 ### How to activate
@@ -35,6 +41,7 @@ These numbers will go up
 - Honestly I do not know but from what I can tell I don't have many
 - Bug with the command execution
   - I hard coded '-' in [FILE](lib/templates/executor/message.js) which was the command prefix (LINE 12)
+- Majour bug, I don't know why but the files are not being loaded: EventHandler, CommandHandler struggles to load
 
 ##### Requirements
 
@@ -60,4 +67,4 @@ Compatible:
 
 - Javascript
   - Probably going to keep it just Javascript
-  - If you want other compatibility support similiar languages and it to the issues tab
+  - If you want other compatibility support similiar languages and it to the issues tab -->
