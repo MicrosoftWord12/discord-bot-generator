@@ -10,23 +10,25 @@ const rl = readline.createInterface({
 
 export function main(){
     rl.question("Would you like to create a project?", async (option)=>{
+
         if (option == "yes"){
-            setTimeout(async ()=>{
-                await DirectoryLoad();
-            }, 500)
+            cp.exec("npm init -y && npm i discord.js@12.5.3 %% npm i nodemon", (buffer) => {
+                console.log("NPM initialised and installing packages");
+            })
             rl.question("JSON Config File or ENV?\n", async (configOption) =>{
                 configOption.toLowerCase();
                 if (configOption == "json"){
-                    await JsonConfig();
-                    await loadAllFiles();
+                            await DirectoryLoad();
+                            await JsonConfig();
+                            await loadAllFiles();
 
-                }else if (configOption == "env"){
-                    envConfig();
-                    await loadAllFiles();
-                }else{
-                    console.error("It has to be one of those!!")
-                }
-            })
+                        }else if (configOption == "env"){
+                            await loadAllFiles();
+                            await envConfig();
+                        }else{
+                            console.error("It has to be one of those!!")
+                        }
+                })
         }else if(option == "no"){
             process.exit();
         }

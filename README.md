@@ -1,7 +1,7 @@
-# I AM REMAKING THIS BUT IN TYPESCRIPT
+<!-- # I AM REMAKING THIS BUT IN TYPESCRIPT -->
 
 
-<!-- 
+
 
 
 #### Discord Bot Project Generator
@@ -60,6 +60,7 @@ These numbers will go up
 - This project is using `discord.js@12.5.3` because it seems to be the more supported one, you are however more than welcome to change this
 - I am making a Discord Shortcut project checkout
   [Shortcut Github](https://github.com/MicrosoftWord12/Discord-JS-Shortcuts-JS)
+    - Probably is going to be remade
 
 #### Functionality:
 
@@ -67,4 +68,4 @@ Compatible:
 
 - Javascript
   - Probably going to keep it just Javascript
-  - If you want other compatibility support similiar languages and it to the issues tab -->
+  - If you want other compatibility support similiar languages and it to the issues tab
