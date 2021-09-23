@@ -1,42 +1,20 @@
 {
-  "name": "djs-bot-generation-package",
-  "version": "3.5.3",
-  "description": "Generates Discord Bot",
-  "main": "./lib/index.js",
+  "name": "discord-bot-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
   "scripts": {
-    "dev": "cd test",
+    "once": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "microsoft-word",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MicrosoftWord12/discord-bot-generator.git"
-  },
-  "bin": {
-    "djs-bot-gen": "lib/index.js"
-  },
-  "bugs": {
-    "url": "https://github.com/MicrosoftWord12/discord-bot-generator/issues"
-  },
-  "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme",
-  "directories": {
-    "lib": "lib"
-  },
-  "keywords": [
-    "discord",
-    "djs",
-    "discord.js",
-    "botGenerator",
-    "bot",
-    "generator"
-  ],
   "dependencies": {
-    "@types/node": "^15.14.9",
-    "nodemon": "^2.0.12",
-    "typescript": "^4.4.2"
-  },
-  "devDependencies": {
-    "discord.js": "^12.5.3"
+    "@types/node": "^16.9.6",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
   }
 }

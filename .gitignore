@@ -107,3 +107,4 @@ dist
 /src
 /test
 /lib/templates/client/bot.js
+/node_modules
