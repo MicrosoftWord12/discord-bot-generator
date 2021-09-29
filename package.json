@@ -1,14 +1,14 @@
 {
-  "name": "discord-bot-generator",
+  "name": "djs-bot-generation-package",
   "version": "3.6.3",
-  "description": "<!-- # I AM REMAKING THIS BUT IN TYPESCRIPT -->",
+  "description": "Generates Discord Bot",
   "main": "index.ts",
   "scripts": {
     "once": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "MicrosoftWord12",
+  "author": "microsoft-word",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.9.6",
