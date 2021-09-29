@@ -18,6 +18,10 @@
     "typescript": "^4.4.3"
   },
 
+  "devDependencies": {
+    "discord.js": "^13.1.0"
+  },
+
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -29,8 +33,6 @@
   "bugs": {
     "url": "https://github.com/MicrosoftWord12/discord-bot-generator/issues"
   },
-  "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme",
-  "devDependencies": {
-    "discord.js": "^13.1.0"
-  }
+  "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme"
+
 }
