@@ -1,25 +1,25 @@
 {
   "name": "discord-bot-generator",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "<!-- # I AM REMAKING THIS BUT IN TYPESCRIPT -->",
   "main": "index.ts",
   "scripts": {
     "once": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/MicrosoftWord12"
-  },
   "keywords": [],
   "author": "MicrosoftWord12",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.9.6",
-    "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.13",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.3"
+  },
+
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/djs-bot-generation-package"
   },
   "directories": {
     "lib": "lib",
@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/MicrosoftWord12/discord-bot-generator/issues"
   },
-  "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme"
+  "homepage": "https://github.com/MicrosoftWord12/discord-bot-generator#readme",
+  "devDependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
