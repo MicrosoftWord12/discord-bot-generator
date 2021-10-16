@@ -8,7 +8,7 @@
 
 ### How to activate
 
-**I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY**
+<!-- **I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY** -->
 
 run:
 `npm i -g djs-bot-generation-package` **THIS HAS TO BE GLOBAL OTHERWISE IT DOES NOT WORK**
