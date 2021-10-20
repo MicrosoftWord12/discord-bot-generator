@@ -1,14 +1,8 @@
-<!-- # I AM REMAKING THIS BUT IN TYPESCRIPT -->
-
-
-
-
-
 #### Discord Bot Project Generator
 
 ### How to activate
 
-<!-- **I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY** -->
+**I AM WORKING ON THIS SO IT DOES IT AUTOMATICALLY**
 
 run:
 `npm i -g djs-bot-generation-package` **THIS HAS TO BE GLOBAL OTHERWISE IT DOES NOT WORK**
@@ -60,7 +54,7 @@ These numbers will go up
 - This project is using `discord.js@12.5.3` because it seems to be the more supported one, you are however more than welcome to change this
 - I am making a Discord Shortcut project checkout
   [Shortcut Github](https://github.com/MicrosoftWord12/Discord-JS-Shortcuts-JS)
-    - Probably is going to be remade
+  - Probably is going to be remade
 
 #### Functionality:
 

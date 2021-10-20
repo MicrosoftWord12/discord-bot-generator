@@ -4,7 +4,6 @@
 - [ ] Add colours to the command line
   - [ ] May require another js package
 
-
 ##### Checking
 
 - [ ] Code cleanup
@@ -21,4 +20,4 @@
 - [x] reading and writing to files work properly
 - [x] Make sure args work for the command executor
 
-
+- [x] Rewrit code in typescript, it seems to be running alot better now
