@@ -4,7 +4,7 @@
 	"description": "Generates Discord Bot",
 	"main": "index.ts",
 	"bin": {
-		"djs-bot-gen": "out/index.js"
+		"djs-bot-gen": "index.ts"
 	},
 	"scripts": {
 		"once": "ts-node index.ts",
