@@ -4,10 +4,10 @@
 	"description": "Generates Discord Bot",
 	"main": "index.ts",
 	"bin": {
-		"djs-bot-gen": "index.ts"
+		"djs-bot-gen": "index.js"
 	},
 	"scripts": {
-		"once": "ts-node index.ts",
+		"once": "node index.js",
 		"build": "npm i -g",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},

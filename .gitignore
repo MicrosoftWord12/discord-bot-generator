@@ -112,3 +112,4 @@ dist
 /lib/FileLoader.js
 main.js
 out
+/index.js
