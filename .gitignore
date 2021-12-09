@@ -111,4 +111,5 @@ dist
 /lib/DirectoryLoader.js
 /lib/FileLoader.js
 main.js
+index.js
 out
