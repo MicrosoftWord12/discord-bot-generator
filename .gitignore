@@ -113,3 +113,5 @@ dist
 main.js
 index.js
 out
+.idea/
+.idea
